@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My background is in engineering as an IT Infrastructure and Security guy but now I'm focused on only coding. 
+My background is in engineering, IT Infrastructure, and Security but now I'm focused on only coding. 
 
 I'll soon finish a 5-month Full-stack web and mobile coding BootCamp, Nucamp. Combined with coursework and projects.
 - HTML/CSS with Bootstrap
@@ -14,7 +14,7 @@ Previously attended another coding BootCamp, Skillcrush. Where I learned,
 - JavaScript
 - WordPress & PHP
 
-I'm open to collaborating with any like-minded peopled on projects. Also, I'd appreciate any advise from anyone who has recently gone this path.
+I'm open to collaborating with any like-minded peopled on projects. Also, I'd appreciate any advice from anyone who has recently gone this path.
 👨‍💻
 
 I am in the process of organizing my GitHub Repositories, project portfolio, and LinkedIn. I'll publish those soon.
