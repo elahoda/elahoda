@@ -2,7 +2,7 @@
 
 My background is in engineering, IT Infrastructure, and Security but now I'm focused on only coding. 
 
-I'll soon finish a 5-month Full-stack web and mobile coding BootCamp, Nucamp. Combined with coursework and projects.
+Soon finishing a 5-month Full-stack web and mobile coding BootCamp, Nucamp. Combined with coursework and projects.
 - HTML/CSS with Bootstrap
 - Web Development with React using React Hooks and state-aware applications using Redux
 - Mobile Development with React Native
