@@ -14,4 +14,4 @@ Self-taught coding, and with the help of online bootcamps, Nucamp and Skillcrush
 
 I'm open to collaborating with any like-minded people on projects. 
 
-Fun fact: I still have my VIC-20.
+Fun facts: I still have my VIC-20, licensed Realtor in PA and NJ, and love to ski.
