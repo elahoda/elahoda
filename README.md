@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-My focus is Web development Front-end to FullStack
-Trained as an electrical engineer, my background includes, IT Infrastructure, and IT Security, however now I'm focused on coding. 
-Business experience, IT Sales, and Real Estate.
-Recent personal reinvention, technically evolving. 
-Self-taught coding, and with the help of online bootcamps, Nucamp and Skillcrush covering Full-stack web and mobile.
+My focus is Web coding from Front-end to Back-end development.
+My Bachelor's degree was in Electrical Engineering and my technology work experience includes IT Infrastructure and IT Security, and my recent business experience includes Real Estate and IT sales. To update my technical skills, I have become a self-taught coder, with the help of online bootcamps, Nucamp and Skillcrush covering front-end and back-end development.
 - HTML/CSS with Bootstrap
 - Web Development with React using React Hooks and state-aware applications using Redux
 - Mobile Development with React Native
