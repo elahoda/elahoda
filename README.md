@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-Self-reinvention from a Real Estate Agent to a full-stack Web Developer. Previously, I was an IT Infrastructure, IT Security Engineer, and IT Sales Engineer, solving technical challenges. Now I want to do the same with code. Formerly, I had a bachelor's Degree in Electrical Engineering and now I am becoming a self-taught coder with the help of online boot camps, such as Nucamp and Skillcrush covering front-end and back-end development.
-- HTML/CSS with Bootstrap
-- Web Development with React using React Hooks and state-aware applications using Redux
-- Mobile Development with React Native
-- Server Side deployment using Node.JS, Express, and MongoDB
-- Database and Storage using MongoDB
-- WordPress & PHP
+Transitioning from real estate to web development, I bring IT expertise, eager to tackle coding challenges. My background includes roles in IT Infrastructure, IT Security Engineering, and IT Sales, where I developed real-world engineering problem-solving skills ready to use with coding. 
+
+Now I'm embracing both front-end and back-end development, I aspire to contribute meaningfully to the ever-evolving world of technology through continuous reinvention in my career journey.
 
 I'm open to collaborating with any like-minded people on projects. 
 
